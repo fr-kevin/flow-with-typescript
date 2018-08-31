@@ -24,8 +24,15 @@
   },
   "homepage": "https://github.com/fr-kevin/flow-with-typescript#readme",
   "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
     "flow-bin": "^0.79.1",
+    "jest": "^23.5.0",
+    "ts-jest": "^23.1.4",
+    "ts-node": "^7.0.1",
     "typescript": "^3.0.3",
-    "webpack": "^4.17.1"
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0"
   }
 }
