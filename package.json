@@ -1,0 +1,31 @@
+{
+  "name": "flow-with-typescript",
+  "version": "0.0.1",
+  "description": "Testing out the new babel typescript plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr-kevin/flow-with-typescript.git"
+  },
+  "keywords": [
+    "babel",
+    "typescript",
+    "ts",
+    "flow",
+    "plugin"
+  ],
+  "author": "Kevin O'Neil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fr-kevin/flow-with-typescript/issues"
+  },
+  "homepage": "https://github.com/fr-kevin/flow-with-typescript#readme",
+  "devDependencies": {
+    "flow-bin": "^0.79.1",
+    "typescript": "^3.0.3",
+    "webpack": "^4.17.1"
+  }
+}
