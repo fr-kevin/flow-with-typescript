@@ -1,5 +1,5 @@
 import * as webpack from 'webpack';
-import path from 'path';
+import * as path from 'path';
 
 export default {
   entry: "./src/index.js",
