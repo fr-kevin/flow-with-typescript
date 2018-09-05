@@ -2,4 +2,6 @@
 
 import { greet } from "./typescript";
 
-greet("Kevin");
+export function goodbye(word: string) {
+  return `Goodbye, ${word}!`;
+}
